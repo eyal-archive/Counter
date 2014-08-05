@@ -5,7 +5,7 @@ A very basic example that demonstrates how to update WinForms control from anoth
 
 ### Application Type ###
 
-* WinForms application.
+* WinForms application
 * Threading
 
 ### Dependencies ###
